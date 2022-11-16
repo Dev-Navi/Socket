@@ -1,0 +1,59 @@
+/* 
+
+section.ftco-section {
+    height: 100%;
+    padding: 250px;
+  }
+  .heading-section {
+    font-size: 28px;
+    color: #fff;
+}
+.login-wrap h3 {
+  font-weight: 300;
+  color: #fff;
+}
+.form-control {
+  background: transparent;
+  border: none;
+  height: 50px;
+  color: #fff!important;
+  border: 1px solid transparent;
+  background: rgba(255,255,255,.08);
+  border-radius: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  -webkit-transition: .3s;
+  -o-transition: .3s;
+  transition: .3s;
+}
+.form-group {
+  position: relative;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+.btn.btn-primary {
+  background: #fbceb5!important;
+  border: 1px solid #fbceb5!important;
+  color: #000!important;
+}
+.checkbox-primary {
+  color: #fbceb5;
+}
+.checkbox-wrap {
+  display: block;
+  position: relative;
+  padding-left: 30px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+
+   */
